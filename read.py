@@ -4,7 +4,6 @@
 
 import pandas as pd
 
-from openpyxl import load_workbook
 data = pd.read_excel (r'C:\Users\3979910229\Desktop\1\khezli\11.xlsx')
 
 print (data)
